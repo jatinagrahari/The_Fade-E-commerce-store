@@ -10,7 +10,7 @@
 
 # Deployed Link
 
--[Live Deployed Link](https://thefadestore.netlify.app/)
+-[Live Deployed Link](https://thefade.netlify.app/)
 
 # Time Taken
 
